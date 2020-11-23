@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Courseweb App</string>
+    <string name="register_form">Register Form</string>
+    <string name="register">Register</string>
+    <string name="teacher">Teacher</string>
+    <string name="teacherMsg"><u>Teacher</u></string>
+    <string name="courseweb_app">CourseWeb App</string>
+    <string name="login">Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="subject">Subject</string>
+    <string name="subjectUI"><u>Subject</u></string>
+    <string name="message">Message</string>
+    <string name="send">SEND</string>
+    <string name="messageUI"><u>Message</u></string>
+    <string name="channel_name">Courseweb Notification</string>
+    <string name="channel_description">Alerts from new Messages</string>
+</resources>
